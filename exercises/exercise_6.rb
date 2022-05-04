@@ -19,7 +19,7 @@ puts "----------"
                         hourly_rate: 90
                         )
 
-@store3.employees.create(first_name: "Junior",
+@store1.employees.create(first_name: "Junior",
                         last_name: "Dev",
                         hourly_rate: 45
                         )
